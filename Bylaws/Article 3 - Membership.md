@@ -15,4 +15,13 @@
   - Members who are willfully absent from church services for an extended period may be placed on the inactive list by recommendation of the Elder Board. A letter stating such action shall be sent. This action shall always carry with it the loss of privilege to vote in church meetings and to hold office in the church. Inactive members shall be contacted by a representative of the Elder Board each year before the Annual meeting to determine their desire regarding membership. If contact cannot be made, the member shall be removed and notified by a member of the Elder Board. 
 
 - Discipline
-  - The goal of ANY action of discipline is the full, complete and loving RESTORATION of the person who may have sinned or erred. 
+  - The goal of ANY action of discipline is the full, complete and loving RESTORATION of the person who may have sinned or erred.
+  - Any member having cause of complaint against another must seek to remove it according to Matthew 18:15-16 and Galatians 6:1. If this procedure fails to heal the breach, the issue will then be brought to the Elder Board who will consider the matter.
+  - In each and every case where church discipline may be necessary, the Elder Board shall prayerfully and thoroughly consider the matter in the light of the Scriptures, following the principle outlined in the Uniform Policy on Discipline and Appeal as stated in the Regulations for Division of Church Ministries, in the Manual of the Christian and Missionary Alliance. This would include those situations where a member or adherent is involved in known, willful and repeated sin of the nature described in Scripture that calls for such disciplinary action.
+
+- Removal
+  - Upon recommendation of the Elder Board, members guilty of conduct unbecoming to their Christian profession may be removed from membership provided that reasonable notice of action has been given to such member and opportunity provided for explanation.
+  - Individuals so removed may be readmitted to membership by applying to the Elder Board, receiving their approval, and by showing signs of consistent living.
+ 
+- Baptism
+  - Believer's baptism will be recommended to those seeking membership who have not previously taken this step of obedience in their walk with God. Matthew 28:19, Acts 18:8, Romans 6:3-4. 
