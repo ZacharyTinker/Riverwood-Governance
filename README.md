@@ -1,7 +1,3 @@
-# Riverwood-Governance
-Official repository for Riverwood Church governance, including bylaws, policies, role descriptions, board motions, and other historical documents.
-
-
 # Riverwood Church Governance Repository
 
 Welcome to the **Riverwood Church Governance Repository**, the official archive for the church's governing documents. This repository is designed to serve as a transparent, accessible, and well-organized resource for leadership and members. Here, you will find foundational documents, operational policies, and records of significant decisions made by the Governing Board.
