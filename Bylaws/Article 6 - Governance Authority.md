@@ -1,13 +1,13 @@
 ## Reference to A5 Article VI 
 
 - The governance authority shall consist of:
- -  All Pastors, on staff, licensed by The Great Lakes District of the Christian and Missionary Alliance
- -  Elders
- -  Head Deacon
- -  Head Trustee
- -  Disciplemaking Ministries Director
- -  Secretary
- -  Treasurer
+	- All Pastors, on staff, licensed by The Great Lakes District of the Christian and Missionary Alliance
+ 	- Elders
+	 - Head Deacon
+	 - Head Trustee
+	 - Disciplemaking Ministries Director
+	 - Governing Board Secretary
+	 - Treasurer
 
 - This Board shall consist of at least nine members. 
 
