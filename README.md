@@ -33,11 +33,3 @@ The contents of this repository are licensed under the [Creative Commons Attribu
 
 ## Contact
 For questions or more information, contact the Governing Board at [office@riverwoodalliance.com].
-
----
-
-## Repository Guidelines
-1. **Document Format**: Files should be uploaded in PDF format to ensure consistency and prevent unauthorized editing.
-2. **Version Control**: All changes must include a commit message summarizing the update and its approval process.
-3. **Access Control**: Only designated users may modify repository contents.
-4. **Archiving**: Historical documents will be preserved in a separate `Archive` folder.
