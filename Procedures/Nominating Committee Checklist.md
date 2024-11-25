@@ -1,11 +1,11 @@
-# Riverwood Church Nomination Committee Guide
+# Riverwood Church Nominating Committee Guide
 ## Overview
-This guide outlines the process for forming the Nomination Committee, compiling position descriptions, managing nominations, and preparing ballots. It ensures consistency, clarity, and adherence to Riverwood’s bylaws for future committees. 
+This guide outlines the process for forming the Nominating Committee, compiling position descriptions, managing nominations, and preparing ballots. It ensures consistency, clarity, and adherence to Riverwood’s bylaws for future committees. 
 
 
 ## Checklist of Key Actions
 
-### Step 1: Form the Nomination Committee
+### Step 1: Form the Nominating Committee
 #### Annual Meeting:
 Elect two congregational representatives during the meeting.
 
@@ -18,7 +18,7 @@ Elect two congregational representatives during the meeting.
 
 ### Step 2: Identify Positions and Prepare Descriptions
 #### First Week of October:
-- Convene the Nomination Committee.
+- Convene the Nominating Committee.
 - Identify all positions up for election, referencing the bylaws for requirements.
 - Draft position descriptions, including:
 	- Term length.
@@ -55,7 +55,7 @@ If positions remain unfilled after the second week of December, reconvene to rep
 
 ### Step 5: Prepare and Share the Nomination Report
 #### Three Weeks Before the Annual Meeting (e.g., Last or Second-to-Last Sunday in January):
-- Finalize the Nomination Committee Report.
+- Finalize the Nominating Committee Report.
 - Share the report with the congregation
 	- during the worship service
 	- via email
@@ -74,4 +74,4 @@ Prepare ballots with instructions for voting on each position.
 Present the prepared ballot to members.
 
 #### Transfer Responsibility:
-The Nomination Committee's work concludes after ballot preparation and presentation.
+The Nominating Committee's work concludes after ballot preparation and presentation.
