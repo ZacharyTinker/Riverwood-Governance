@@ -4,17 +4,17 @@ Welcome to the Riverwood Church Governance Repository. Below you’ll find the o
 
 ## Table of Contents
 
-### [Bylaws](bylaws/)
-- [Preamble](bylaws/Preamble.md)
+### [Bylaws](Bylaws/)
+- [Preamble](Bylaws/Preamble.md)
 
 ### [Policies](policies/)
-- [Example](policies/Example.md)
+- [Example](Policies/Example.md)
 
 ### [Roles](roles/)
-- [Example](roles/Example.md)
+- [Example](Roles/Example.md)
 
 ### [Motions](motions/)
-- [Example](motions/Example.md)
+- [Example](Motions/Example.md)
 
 
 ---
