@@ -218,7 +218,7 @@ The Head Trustee shall be authorized to sign checks and/or be issued a credit ca
 - The Salary Committee may choose to meet additionally to discuss salary changes to the current budgeted year. Situations such as the following may warrant additional meetings when the number of employees changes within the church after the current budget has been set or in cases of unexpected significant economic changes within the local area. Any proposed changes to the salaries of the current budgeted year must be submitted to the Governing Authority for approval. 
 
 ### Other Committees
-- As may be desired, the governance authority may appoint committees for a one-year term. The Committees shall elect a chair from within their membership, and report quarterly to the governance authority on status and plans. 
+As may be desired, the governance authority may appoint committees for a one-year term. The Committees shall elect a chair from within their membership, and report quarterly to the governance authority on status and plans. 
 
 
 
