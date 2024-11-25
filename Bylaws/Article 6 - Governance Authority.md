@@ -15,6 +15,6 @@
 
 - The governance authority shall be responsible for overall leadership and oversight of the church based on the principles of servant leadership found in I Peter 5:1-3, Matthew 20:25-28, and Matthew 23:10-11. 
  
-- The governance authority shall appoint all committees deemed necessary. The governance authority shall set the number of each committee according to the church's ministry needs. 
+- The governance authority shall appoint all committees deemed necessary. The governance authority shall set the number of each committee according to the church's ministry needs. These appointed offices will then serve until the next annual election of officers. 
 
-- The governance authority may fill any vacancies that arise in elected offices. These appointed offices will then serve until the next annual election of officers. 
+- The governance authority may fill any vacancies that arise in elected offices. 
