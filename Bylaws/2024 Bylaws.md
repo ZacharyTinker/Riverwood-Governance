@@ -109,9 +109,6 @@ Believer's baptism will be recommended to those seeking membership who have not 
 
 - The governance authority shall be responsible for overall leadership and oversight of the church based on the principles of servant leadership found in I Peter 5:1-3, Matthew 20:25-28, and Matthew 23:10-11. 
  
-- The governance authority shall appoint all committees deemed necessary. The governance authority may fill any vacancies that arise in elected offices. These appointed offices will then serve until the next annual election of officers. The governance authority shall set the number of each committee according to the church's ministry needs. 
-
-
 
 ## Article 7 - Officers [^7]
 
@@ -218,7 +215,7 @@ The Head Trustee shall be authorized to sign checks and/or be issued a credit ca
 - The Salary Committee may choose to meet additionally to discuss salary changes to the current budgeted year. Situations such as the following may warrant additional meetings when the number of employees changes within the church after the current budget has been set or in cases of unexpected significant economic changes within the local area. Any proposed changes to the salaries of the current budgeted year must be submitted to the Governing Authority for approval. 
 
 ### Other Committees
-As may be desired, the governance authority may appoint committees for a one-year term. The Committees shall elect a chair from within their membership, and report quarterly to the governance authority on status and plans. 
+As may be desired, the governance authority may appoint committees for a one-year term. The Committees shall elect a chair from within their membership, and report quarterly to the governance authority on status and plans. The governance authority shall set the number of each committee according to the church's ministry needs. 
 
 
 
