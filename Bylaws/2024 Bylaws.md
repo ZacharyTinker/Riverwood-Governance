@@ -24,15 +24,14 @@ This church shall bear the corporate name of the “RIVERWOOD COMMUNITY CHURCH O
 This church is connected with and subordinate to its parent religious organization, The Christian and Missionary Alliance, a Colorado nonprofit corporation. In consideration of the mutual benefits generated and derived from this relationship, and understanding that The Christian and Missionary Alliance is relying hereon in agreeing to initiate or continue such relationship, this church agrees to be subject to and abide by the terms and conditions of Article XVI hereof relating to the reversion of property of accredited churches.
 
 ### Lay Delegate(s) to General Council.
-- Pursuant to section A2 Amended and Restated Constitution and Bylaws of the Christian and Missionary Alliance, Article VI, Section 6.2, paragraph 3, lay delegates to General Council shall be appointed annually by the governance authority. The delegate(s) shall be certified by the Lead Pastor and reported to the proper authority upon request.
+Pursuant to section A2 Amended and Restated Constitution and Bylaws of the Christian and Missionary Alliance, Article VI, Section 6.2, paragraph 3, lay delegates to General Council shall be appointed annually by the governance authority. The delegate(s) shall be certified by the Lead Pastor and reported to the proper authority upon request.
  
 ### Lay Delegate(s) to District Conference.
-- Pursuant to section A4 Uniform Constitution for Districts of the Christian and Missionary Alliance, Article II, Section I, paragraph a, Uniform Constitution for District of The Christian and Missionary Alliance, lay delegates to District Conference shall be appointed annually by the governance authority. The delegate(s) shall be certified by the Lead Pastor and reported to the proper authority upon request.
+Pursuant to section A4 Uniform Constitution for Districts of the Christian and Missionary Alliance, Article II, Section I, paragraph a, Uniform Constitution for District of The Christian and Missionary Alliance, lay delegates to District Conference shall be appointed annually by the governance authority. The delegate(s) shall be certified by the Lead Pastor and reported to the proper authority upon request.
 
 
 
 ## Article 3 - Membership [^3]
-
 ### Application for Membership
 All applicants desiring membership shall meet with the Elder Board or at least two representatives of such. Upon approval of the Elder Board, they shall be recommended for acceptance as members. Applicants shall be received into membership in a regular public service following their recommendation from the Elder Board. 
 
@@ -61,7 +60,7 @@ Upon written request from another Christian body/fellowship/church, an individua
 - Individuals so removed may be readmitted to membership by applying to the Elder Board, receiving their approval, and by showing signs of consistent living.
  
 ### Baptism
-- Believer's baptism will be recommended to those seeking membership who have not previously taken this step of obedience in their walk with God. Matthew 28:19, Acts 18:8, Romans 6:3-4. 
+Believer's baptism will be recommended to those seeking membership who have not previously taken this step of obedience in their walk with God. Matthew 28:19, Acts 18:8, Romans 6:3-4. 
 
 
 
@@ -75,20 +74,36 @@ Upon written request from another Christian body/fellowship/church, an individua
 
 
 ## Article 5 - Government [^5]
-
 - The Annual Meeting of the church will be held at the regular place of worship in the month of January. Specific day to be chosen by the governance authority. 
  
 - The Annual Meeting and any other Business Meeting of the congregation shall be announced from the pulpit on the two preceding Sundays. A letter is to be sent by the Secretary, two weeks prior to the Annual Meeting and remind them of their responsibilities as a voting member of the church. 
 
 - 20% of active members must be present at any properly called annual or congregational meeting. They shall constitute a quorum. 
 
-- Annual reports are to be submitted by the pastor(s), elders, governance authority, secretary, treasurer, audit committee chair, and others deemed necessary by the governance authority. The governance authority shall also determine the method of reporting. 
+- Annual reports are to be submitted by the following:
+	- Pastor(s)
+	- Elders
+	- Governance authority
+	- Secretary
+	- Treasurer
+	- Audit committee chair
+	- And others deemed necessary by the governance authority.
+
+- The governance authority shall also determine the method of reporting. 
 
 
 
 ## Article 6 - Governance Authority [^6]
+- The governance authority shall consist of the following:
+	- All Pastors, on staff, licensed by The Great Lakes District of the Christian and Missionary Alliance
+	- Elders,
+	- Head Deacon
+	- Head Trustee
+	- Disciplemaking Ministries Director
+	- Governing Board Secretary
+	- Treasurer
 
-- The governance authority shall consist of all Pastors, on staff, licensed by The Great Lakes District of the Christian and Missionary Alliance, Elders, Head Deacon, Head Trustee, Disciplemaking Ministries Director, Secretary and Treasurer. This Board shall consist of at least nine members. 
+- This Board shall consist of at least nine members. 
 
 - A quorum shall be 50% of the members of the governance authority. 
 
@@ -100,9 +115,24 @@ Upon written request from another Christian body/fellowship/church, an individua
 
 ## Article 7 - Officers [^7]
 
-- The following officers of the church will be elected at the Annual Meeting: Elders, Head Deacon, Head Deaconess, Treasurer, Assistant Treasurer, Head Trustee, Governing Board Secretary, Alliance Men Coordinator, Alliance Women Coordinator, and Missions Coordinator.
+- The following officers of the church will be elected at the Annual Meeting:
+	- Elders
+	- Head Deacon
+	- Head Deaconess
+	- Treasurer
+	- Assistant Treasurer
+	- Head Trustee
+	- Governing Board Secretary
+	- Alliance Men Coordinator
+	- Alliance Women Coordinator
+	- Missions Coordinator
 
-- The following officers of the church will be appointed annually by the Lead Pastor and confirmed by the Elders and then the Governing Board: Disciplemaking Ministries Director, Worship Ministry Director, Children’s Ministry Director, Youth Ministry Director, and Small Group Director.
+- The following officers of the church will be appointed annually by the Lead Pastor and confirmed by the Elders and then the Governing Board:
+	- Disciplemaking Ministries Director
+	- Worship Ministry Director
+	- Children’s Ministry Director
+	- Youth Ministry Director
+	- Small Group Director
 
 - A vacancy in any office elected by the membership at the annual meeting, however occurring, may be filled by appointment of the Governing Board until the next Annual Meeting. Where there is a vacancy, the Governing Board shall assume responsibility for those ministries and duties until such are elected or appointed. 
 
@@ -111,78 +141,75 @@ Upon written request from another Christian body/fellowship/church, an individua
 ## Article 8 Duties of Church Officers [^8]
 
 ### Assistant Treasurer
-- The Assistant Treasurer shall issue receipts to donors to the church on or before January 31, for the preceding calendar year. 
+The Assistant Treasurer shall issue receipts to donors to the church on or before January 31, for the preceding calendar year. 
 
 ### Head Trustee
-- The Head Trustee shall be authorized to sign checks and/or be issued a credit card with which to charge authorized expenses. 
+The Head Trustee shall be authorized to sign checks and/or be issued a credit card with which to charge authorized expenses. 
 
 
 
 ## Article 9 - Committees and Organizations [^9]
 
 ### Elders
-- A minimum of four Elders shall be elected. A minimum of two elected annually for a two-year term.
+- A minimum of four Elders shall be elected.
+
+- A minimum of two elected annually for a two-year term.
 
 - Members may succeed themselves in office.
 
 - Elected Elders must have been actively engaged in a church ministry at Riverwood Church for at least one year with proven discipleship skills.  
 
 ### Deacons
-- The Head Deacon will be elected at the Annual Meeting for a two-year term. The Head Deacon will 
-serve as chair of the deacons.
+- The Head Deacon will be elected at the Annual Meeting for a two-year term. The Head Deacon will serve as chair of the deacons.
 
-- The Head Deacon shall create a deacon committee with a minimum of four deacons. The names of 
-the deacons shall be presented to the Governing Board for confirmation. They shall serve under the 
-direction of the Head Deacon.
+- The Head Deacon shall create a deacon committee with a minimum of four deacons. The names of the deacons shall be presented to the Governing Board for confirmation. They shall serve under the direction of the Head Deacon.
 
 - The Deacons will handle the Benevolent Fund to respond to charitable needs as they arise. 
 
 ### Deaconesses 
-- The Head Deaconess will be elected at the Annual Meeting for a two-year term. The Head Deaconess 
-will serve as chair of the deaconesses.
+- The Head Deaconess will be elected at the Annual Meeting for a two-year term. The Head Deaconess will serve as chair of the deaconesses.
 
-- The Head Deaconess shall create a deaconess committee with a minimum of four deaconesses. The 
-names of the deaconesses shall be presented to the Governing Board for confirmation. They shall 
-serve under the direction of the Head Deaconess. 
+- The Head Deaconess shall create a deaconess committee with a minimum of four deaconesses. The names of the deaconesses shall be presented to the Governing Board for confirmation. They shall serve under the direction of the Head Deaconess. 
 
 ### Trustees
-- The Head Trustee will be elected at the Annual Meeting for a two-year term. The Head Trustee will 
-serve as chair of the trustees.
+- The Head Trustee will be elected at the Annual Meeting for a two-year term. The Head Trustee will serve as chair of the trustees.
 
-- The Head Trustee shall create a trustee committee with a minimum of four trustees. The names of 
-the trustees shall be presented to the Governing Board for confirmation. They shall serve under the 
-direction of the Head Trustee. 
+- The Head Trustee shall create a trustee committee with a minimum of four trustees. The names of the trustees shall be presented to the Governing Board for confirmation. They shall serve under the direction of the Head Trustee. 
  
 ### Disciplemaking Ministries
-- A major ministry of this church shall be making disciples of Jesus Christ. The disciplemaking process 
-includes small groups, evangelism, building up believers, equipping workers, and multiplying 
-leaders, among adults, youth, and children. The purpose of disciplemaking ministries is to bring 
-people to a saving knowledge of Christ, teach biblical principles emphasizing missions and the 
-centrality of Christ as Savior, Sanctifier, Healer, and Coming King, and equip people for evangelism 
-and Christian service.
+- A major ministry of this church shall be making disciples of Jesus Christ. The disciplemaking process includes small groups, evangelism, building up believers, equipping workers, and multiplying leaders, among adults, youth, and children. The purpose of disciplemaking ministries is to bring people to a saving knowledge of Christ, teach biblical principles emphasizing missions and the centrality of Christ as Savior, Sanctifier, Healer, and Coming King, and equip people for evangelism and Christian service.
 
-- The disciplemaking ministries of this Church are led by a Children's Ministry Director, a Youth 
-Ministry Director, and a Small Group Director, each of whom oversees the disciplemaking ministries 
-in their respective areas, with oversight from the Disciplemaking Ministries Director. They coordinate 
-with each other as needed or directed, and are amenable to the Lead Pastor. 
+- The disciplemaking ministries of this Church are led by a Children's Ministry Director, a Youth Ministry Director, and a Small Group Director, each of whom oversees the disciplemaking ministries in their respective areas, with oversight from the Disciplemaking Ministries Director. They coordinate with each other as needed or directed, and are amenable to the Lead Pastor. 
 
 ### Finance Committee
-- The Finance Committee will consist of the Treasurer, Assistant Treasurer, Head Trustee and two 
-others from the congregation.
+- The Finance Committee will consist of the following:
+	- Treasurer
+	- Assistant Treasurer
+	- Head Trustee
+	- And two others from the congregation.
 - The Treasurer will serve as the chair of the Finance Committee.
 - The Finance Committee will obtain a review of the financial records of the church annually. 
 
 ### Missions Committee
-- The Missions Committee shall consist of the Senior Pastor, Missions Coordinator, Alliance Women 
-Coordinator , Alliance Men Coordinator, and up to four members from the congregation. When 
-filled, the Missions Candidate will also be on the committee.
+- The Missions Committee shall consist of the following:
+	- Senior Pastor
+	- Missions Coordinator
+	- Alliance Women Coordinator
+	- Alliance Men Coordinator
+	- And up to four members from the congregation.
+
+- When filled, the Missions Candidate will also be on the committee.
 
 - The Missions Coordinator shall be the chair of this committee.
 
 - The Missions Coordinator shall be elected at the Annual Meeting for a two-year term. 
 
 ### Salary Committee
-- The Salary Committee will consist of the Treasurer, the Vice Chair of the Governing Board, Head Deacon, and two others from the congregation.
+- The Salary Committee will consist of the following:
+	- Treasurer
+	- The Vice Chair of the Governing Board
+	- Head Deacon
+	- And two others from the congregation.
 
 - The Treasurer will serve as the chair of the Salary Committee.
 
@@ -201,30 +228,35 @@ A missions conference shall be held annually for the promotion and support of th
 
 
 ## Article 11 - Nominating Committee [^11]
-- The required election of members to this committee from the congregation shall be conducted at the 
-annual meeting of the congregation. The governance authority shall, at the first regular meeting of the new 
-year, elect members to this committee. 
+- The required election of members to this committee from the congregation shall be conducted at the annual meeting of the congregation. The governance authority shall, at the first regular meeting of the new year, elect members to this committee. 
 
 - The Lead Pastor shall be the chair of the Nominating Committee. 
 
 
 
 ## Article 12 - Elections [^12]
-The Nominating Committee shall present the first reading of this report to the congregation at least three weeks prior to the annual meeting. At least one name for each office to be filled will be presented. This will be presented in such a way so as to fully inform the entire congregation. After this, individual nominations from the congregation may be presented in writing to the Nomination Committee. The second reading of the Nomination Committee's report will then be presented at the annual meeting of the congregation. 
+- The Nominating Committee shall present the first reading of this report to the congregation at least three weeks prior to the annual meeting.
+  
+- At least one name for each office to be filled will be presented. This will be presented in such a way so as to fully inform the entire congregation.
+
+- After this, individual nominations from the congregation may be presented in writing to the Nomination Committee.
+
+- The second reading of the Nomination Committee's report will then be presented at the annual meeting of the congregation. 
 
 
 
 ## Article 13 - Amendments [^13]
-- These Bylaws may be amended in the following way:
+These Bylaws may be amended in the following way:
 
-   - Any member in good standing may present proposed amendments to the governance authority, in writing, at least 30 days before they are to be submitted to the membership for action.
+- Any member in good standing may present proposed amendments to the governance authority, in writing, at least 30 days before they are to be submitted to the membership for action.
 
-	- The governance authority shall present the proposed amendments to the next business meeting of the members, accompanied by a recommendation to adopt, amend or reject the amendment.
+- The governance authority shall present the proposed amendments to the next business meeting of the members, accompanied by a recommendation to adopt, amend or reject the amendment.
 
-	- Any proposed amendment shall require a two-thirds vote of the members present for adoption.
+- Any proposed amendment shall require a two-thirds vote of the members present for adoption.
 
-	- The Governing Board Secretary shall be authorized to correct article and section designations, punctuation, and cross-references and to make other such technical and conforming changes as may be necessary to reflect the intent of the bylaws or to remain in compliance with newly published Manuals of the Christian and Missionary Alliance.
-		- Amendments made in this way must be confirmed by the Governing Board and notification must be given to the membership.
+- The Governing Board Secretary shall be authorized to correct article and section designations, punctuation, and cross-references and to make other such technical and conforming changes as may be necessary to reflect the intent of the bylaws or to remain in compliance with newly published Manuals of the Christian and Missionary Alliance.
+
+	- Amendments made in this way must be confirmed by the Governing Board and notification must be given to the membership.
 
 
 
