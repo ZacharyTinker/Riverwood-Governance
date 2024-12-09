@@ -80,13 +80,74 @@ All pre-winter tasks must be completed before the average outdoor temperature fa
 
 ### 2.1 Emergency Response Levels
 
-| **Level**                | **Outdoor Temp**       | **Indoor Temp**         | **Actions**                                                                                                                                                                                                                                 |
-|--------------------------|-------------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Level 1: Normal**      | **Above 32°F**          | **65-70°F (Normal)**    | Maintain standard operations. Confirm thermostat schedules remotely and inspect rooftop units for snow or debris.                                                                                             |
-| **Level 2: Mild Risk**   | **Above 32°F**          | **60-64°F**            | Use remote monitoring to verify thermostat settings. Adjust thermostats as needed to restore normal temperatures. Monitor outdoor weather closely for potential escalation.                                                                          |
-| **Level 3: Moderate Risk** | **15-32°F**             | **59-55°F**            | Conduct in-person inspections of boiler system pipes and exterior walls. Deploy portable heaters to critical areas such as the sanctuary and boiler zones. Prepare generators for potential use and log all actions for review.                        |
-| **Level 4: Severe Risk** | **Below 15°F**          | **54-50°F**            | Deploy heaters and fans to critical zones. Notify Rolls Mechanical for emergency service. Notify the Governing Board and inform ministry leaders of any impacts.                                                                                                                                                                          |
-| **Level 5: Critical**    | **Triggered at Indoor Temp Below 40°F (Regardless of Outdoor Temp)** | **Below 40°F**         | Shut off the main water supply and drain pipes. Notify the Governing Board and affected ministry leaders of disruptions. Restrict access to essential personnel only. Contact Rolls Mechanical for urgent assistance.                                                                          |
+| **Level**                | **Outdoor Temp**       | **Indoor Temp**         |
+|--------------------------|-------------------------|-------------------------|
+| **Level 1: Normal**      | **Above 32°F**          | **65-70°F (Normal)**    |
+| **Level 2: Mild Risk**   | **Above 32°F**          | **60-64°F**            |
+| **Level 3: Moderate Risk** | **15-32°F**             | **59-55°F**            |
+| **Level 4: Severe Risk** | **Below 15°F**          | **54-50°F**            |
+| **Level 5: Critical**    | **Triggered at Indoor Temp Below 40°F (Regardless of Outdoor Temp)** | **Below 40°F**         |
+
+---
+
+### 2.2 Detailed Actions for Each Level
+
+#### Level 1: Normal (Above 32°F, Indoor 65-70°F)
+1. **Monitor System Operations:**  
+   - Use remote monitoring tools to confirm all thermostats are maintaining scheduled temperatures.  
+2. **Inspect Key Areas:**  
+   - Check rooftop units and exterior vents for snow or debris.  
+   - Inspect doors and windows to ensure they are properly sealed.  
+3. **Log Routine Observations:**  
+   - Maintain written or digital logs for reference.  
+
+#### Level 2: Mild Risk (Above 32°F, Indoor 60-64°F)
+1. **Verify System Operations:**  
+   - Confirm all thermostats are functioning remotely.  
+   - Adjust settings as necessary to restore indoor temperatures to 65-70°F.  
+2. **Increase Monitoring Frequency:**  
+   - Perform visual inspections of boiler system pipes and exterior walls for signs of cold spots or condensation.  
+3. **Prepare Heating Equipment:**  
+   - Ready portable heaters for deployment if further temperature drops occur.  
+4. **Monitor Weather Reports:**  
+   - Stay updated on weather conditions that could escalate risk levels.  
+
+#### Level 3: Moderate Risk (15-32°F, Indoor 59-55°F)
+1. **Conduct Physical Inspections:**  
+   - Check areas with boiler system pipes in ceilings and near exterior walls.  
+   - Look for signs of frost or freezing on pipes or condensation near cold zones.  
+2. **Deploy Portable Heaters:**  
+   - Prioritize heating in critical areas such as the sanctuary and boiler zones.  
+3. **Check HVAC Systems for Issues:**  
+   - Listen for unusual sounds or observe performance issues.  
+4. **Prepare Generators for Use:**  
+   - Ensure portable generators are fueled and ready to power heaters if needed.  
+
+#### Level 4: Severe Risk (Below 15°F, Indoor 54-50°F)
+1. **Notify Rolls Mechanical:**  
+   - Call for emergency service if HVAC systems fail to maintain temperatures.  
+2. **Deploy Heating Equipment and Fans:**  
+   - Direct heat to vulnerable areas such as boiler pipe zones and exterior walls.  
+3. **Alert Governing Board:**  
+   - Notify the board of the situation and response measures.  
+4. **Notify Ministry Leaders:**  
+   - Inform leaders if their activities are impacted by unsafe building conditions.  
+5. **Monitor Building Continuously:**  
+   - Perform regular checks of all critical zones.  
+
+#### Level 5: Critical (Triggered at Indoor Temp Below 40°F)
+1. **Shut Off Main Water Supply:**  
+   - Turn off the main water valve in the boiler room to prevent further damage.  
+2. **Drain All Pipes:**  
+   - Start with vulnerable areas such as boiler pipe zones and exterior walls.  
+3. **Maintain Portable Heating:**  
+   - Use portable heaters to prevent structural damage where possible.  
+4. **Notify Governing Board and Ministry Leaders:**  
+   - Communicate the impact and expected duration of service disruptions.  
+5. **Contact Rolls Mechanical:**  
+   - Request urgent repair services.  
+6. **Restrict Building Access:**  
+   - Limit access to essential personnel only.  
 
 ---
 
@@ -152,7 +213,3 @@ All pre-winter tasks must be completed before the average outdoor temperature fa
 ### 6.5 Follow-Up and Record Retention
 1. **Track Claim Progress:** Follow up regularly with Church Mutual.  
 2. **Archive Documentation:** Retain all records for at least five years.  
-
----
-
-This version restores all previously omitted details, keeps the **response level table**, and adds the **Insurance Documentation and Claims Process** as a full, detailed section. Let me know if any additional adjustments are required!
