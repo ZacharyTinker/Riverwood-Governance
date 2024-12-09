@@ -70,9 +70,8 @@ All pre-winter tasks must be completed before the average outdoor temperature fa
    - Verify snow removal contractors or volunteers are ready for the season.  
    - Ensure shovels and de-icing supplies are accessible.  
 
-2. **Inspect Emergency Lighting and Fire Suppression Systems:**  
+2. **Inspect Emergency Lighting Systems:**  
    - Test emergency lighting systems and replace batteries if necessary.  
-   - Confirm sprinklers and other fire suppression systems are operational.  
 
 ---
 
@@ -213,3 +212,93 @@ All pre-winter tasks must be completed before the average outdoor temperature fa
 ### 6.5 Follow-Up and Record Retention
 1. **Track Claim Progress:** Follow up regularly with Church Mutual.  
 2. **Archive Documentation:** Retain all records for at least five years.  
+
+
+
+
+# Appendix: Supporting Information and Clarifications
+
+This appendix provides additional details and clarifications to support the implementation of the Winter Emergency Plan.
+
+---
+
+## 1. Proactive Measures and Training
+- Training for trustees or individuals on specific tasks (e.g., using heaters, draining pipes) will be offered by the **Head Trustee** or a trained trustee as needed.
+- New trustees will receive training based on availability.
+
+---
+
+## 2. Group Communication
+- A group chat platform (e.g., text, GroupMe, Facebook Messenger) will be selected at the start of the trustee term for coordination.
+- Trustees should use the group chat to:
+  - Claim tasks.
+  - Avoid duplication of effort.
+  - Coordinate assistance if needed.
+- If no one responds in the group chat during an emergency:
+  1. Begin calling trustees directly.
+  2. If unavailable, escalate to members of the **Governing Board** or the **Lead Pastor**.
+
+---
+
+## 3. Task Tracking
+- A shared task tracker is not currently available.
+- Task coordination and claiming will be managed through the group chat.
+- Trustees should clearly communicate when they are working on a task to prevent duplication.
+
+---
+
+## 4. Pipe Draining Procedure
+- Step-by-step instructions for shutting off and draining pipes will be posted in the **boiler room**.
+- Practice sessions are not scheduled but can be requested from the **Head Trustee** if needed.
+
+---
+
+## 5. Equipment and Supplies
+- **Portable Heaters:** Located throughout the building.
+- **Generators:** Stored in the shed with fuel and oil (standard gasoline, unmixed).  
+  - Instructions for operation are printed on the generators.  
+- If equipment is missing or non-functional:
+  1. Alert the **Head Trustee** immediately.
+  2. Coordinate with trustees to locate loanable equipment or make repairs.
+- The **Head Trustee** is authorized to approve rentals or purchases. If unavailable, contact the **Governing Board**.
+- Supplies are replenished before winter begins and as needed during the season. The **trustees** will coordinate with the **Head Trustee** to ensure sufficient supplies are on hand.
+
+---
+
+## 6. Documentation for Damage
+- **No Specific Format Required:** Trustees should document as much as possible.
+  - Take photos and videos of damaged areas (include thermostat readings, structural damage, and any actions taken).
+  - Submit photos and notes to the **Head Trustee**.
+- The **Head Trustee** will coordinate all insurance claims and follow-ups with Church Mutual.
+
+---
+
+## 7. Post-Emergency Review and Updates
+- A review process involving all participants will be conducted after an emergency.
+- Updates to the plan will be communicated via the group chat.
+- New copies of the updated plan will be posted in relevant locations, including:
+  - **Boiler Room**
+  - **Trustee Closet**
+
+---
+
+## 8. Access to Documentation
+- Documentation related to the plan and incidents will be stored on the church's **SharePoint** account.
+- Access is limited to:
+  - **Head Trustee**
+  - **Ministry Leaders**
+  - **Governing Board**
+
+---
+
+## 9. Centralized Contacts List
+- A centralized list of contacts will be maintained as part of the plan. This includes:
+  - **Trustees**
+  - **Head Trustee**
+  - **Governing Board Members**
+  - **Relevant Service Providers** (e.g., Rolls Mechanical).
+- Contact details will be shared and updated annually or as needed.
+
+---
+
+This appendix should be referenced alongside the main Winter Emergency Plan to provide additional context and clarity for trustees and supporting individuals.
