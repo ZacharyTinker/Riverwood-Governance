@@ -82,6 +82,16 @@ The Trustee Committee is chaired by the Head Trustee. Members oversee church pro
 
 ---
 
+### **Nominating Committee**  
+The Nominating Committee is chaired by the Lead Pastor and includes two members voted by the members at the Annual Meeting and two additional members from the congregation appointed by the Governing Board. This committee administers the nomination and election process for all elected positions.
+
+- **Chair (Lead Pastor):** __________________________  
+- Member 1 (Voted by Members): __________________________  
+- Member 2 (Voted by Members): __________________________  
+- Member 3 (From Congregation): __________________________  
+- Member 4 (From Congregation): __________________________  
+
+---
 ### **Finance Committee**  
 The Finance Committee is chaired by the Treasurer and includes the Assistant Treasurer, Head Trustee, and two additional members from the congregation. This committee oversees financial operations and ensures an annual financial review.  
 
