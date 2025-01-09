@@ -19,104 +19,103 @@ This calendar ensures all business-related tasks are completed on time and witho
 
 ---
 
-## Annual Tasks
+# Church Business Calendar Timeline
 
-### January
-- **First Week**:
-  - Prepare ballots for the Annual Meeting election.
+## January
+- **January 1**:
+  - Alert members of the Annual Meeting date via email/letter.
+  - Distribute the Annual Meeting Agenda, Annual Budget, and Nominating Committee report to members.
+- **Three Sundays prior to the Annual Meeting**:
+  - Distribute the Nominating Committee report to members.
+- **Two Sundays prior to the Annual Meeting**:
+  - Announce the Annual Meeting from the pulpit.
+- **One Sunday prior to the Annual Meeting**:
+  - Announce the Annual Meeting from the pulpit.
+  - Distribute Annual Meeting packet via The Hub, printed hard copies, and emailed PDFs.
+- **Sunday of the Annual Meeting**:
+  - Distribute any remaining reports.
+  - Members confirm the budget and elect officers.
+  - Alert Ministry Leaders of their requirement to find and nominate individuals to ministry committees, due by the second Tuesday of February.
 
-- **Last Sunday in January**:
-  - **Annual Meeting**:
-    - Elect two members to the Nominating Committee.
-    - **Required Reports**:
-      - Audit Committee Report: Overview of financial audit and findings.
-      - Treasurer’s Report: Financial performance for the past year, including income, expenses, and year-end balances.
-      - Finance Committee or Governing Board Budget Presentation: Approved budget for the current year.
-      - Nominating Committee Report: Final slate of candidates for elections.
-    - **Optional Reports (at the discretion of the Governing Board)**:
-      - Pastor’s Report: Vision, accomplishments, and spiritual direction.
-      - Elder’s Report: Updates on congregational care and spiritual oversight.
-      - Head Trustee’s Report: Maintenance and property updates.
-      - Head Deacon’s Report: Care and benevolence activities.
-      - Disciplemaking Ministry Reports:
-        - Kids Ministry: Highlights of children’s programs and initiatives.
-        - Youth Ministry: Updates on youth activities and events.
-        - Small Groups: Participation, curriculum, and outcomes.
-        - Outreach: Summary of community engagement and events.
-        - Food Pantry: Impact metrics and volunteer updates.
-      - Alliance Ministries Reports:
-        - Missions Report: Missionary support and mission-related events.
-        - Alliance Men’s Report: Activities and outreach specific to men’s ministry.
-        - Alliance Women’s Report: Women’s ministry events and initiatives.
-        - Alliance Bible Quizzing Report: Participation, achievements, spiritual growth, and future plans.
-      - Reports of committees created by the Governing Board during the year.
----
-
-### February
+## February
 - **Second Tuesday**:
-  - **Governing Board Meeting**:
-    - Review names submitted by Ministry Leaders for committee appointments.
-    - Put forward names for other committees.
-    - Pastor presents names for pastoral appointments; board votes to confirm.
+  - Governing Board Meeting.
+  - Quarterly (Q1) Financial Review.
+  - Invite Ministry Leaders to attend if they have items to discuss that may place their budgets outside their anticipated “Safe Budget” (attendance optional). Updates will be shared with all ministry leaders afterward.
+  - Elect Vice Chair of the Board.
+  - Review Lead Pastor’s appointees for ministry leaders:
+    - Disciplemaking Ministry Director (Outreach Director)
+    - Children’s Ministry Director
+    - Youth Ministry Director
+    - Small Groups Director (Connect Groups)
+    - Worship Ministry Director
+  - Review Ministry Leaders’ appointees for ministry committees:
+    - Deacons (Head Deacon)
+    - Deaconesses (Head Deaconess)
+    - Trustees (Head Trustee)
+    - Missions Committee (Missions Coordinator)
+    - Outreach Committee (Disciplemaking Director)
+  - Nominate individuals to other committees:
+    - Finance Committee (2)
+    - Salary Committee (2)
+    - Nominating Committee (2)
+  - Create additional committees if desired.
+- **Second Tuesday through Second Tuesday of March**:
+  - Contact nominees ensuring willingness to serve on a committee.
 
-- **Rest of February (After Board Meeting)**:
-  - **Board Secretary (or Designee)**:
-    - Contact individuals for committee and leadership roles to confirm willingness to serve.
-
----
-
-### March
+## March
+- **Second Tuesday through Second Tuesday**:
+  - Continue contacting nominees to confirm willingness to serve on a committee.
 - **Second Tuesday**:
-  - **Governing Board Meeting**:
-    - Finalize and vote to confirm all committee and leadership appointments, including:
-      - Ministry Committee appointments (varies by ministry).
-      - Salary Committee Finance Committee appointments
-    - Ensure all committee and leadership appointments are finalized to avoid delays.
+  - Confirm appointees to other committees:
+    - Finance Committee (2)
+    - Salary Committee (2)
+    - Nominating Committee (2)
+  - Confirm any outstanding appointments if necessary.
 
----
-
-### April - September
-- **Second Tuesday of Each Month**:
-  - **Governing Board Meeting**:
-
----
-
-### October
-- **Entire Month**:
-  - **Finance Committee**:
-    - Request and collect budget requests for the upcoming year from Ministry Leaders.
-
-- **First Sunday**:
-  - **Nominating Committee**:
-    - Announce open positions and begin accepting nominations.
-
-- **Last Sunday**:
-  - Close nominations; Nominating Committee finalizes the list of candidates.
-
-- **Note**: Ministry Leaders must submit budget requests by the end of October to allow the Finance Committee ample time to prepare the draft budget.
-
----
-
-### November
-- **First Week**:
-  - **Finance Committee**:
-    - Begin drafting the budget based on ministry requests and anticipated needs.
-
+## May
 - **Second Tuesday**:
-  - **Governing Board Meeting**:
-    - Address ongoing business and Finance Committee updates.
+  - Quarterly (Q2) Financial Review.
+  - Invite Ministry Leaders to attend if they have items to discuss that may place their budgets outside their anticipated “Safe Budget” (attendance optional). Updates will be shared with all ministry leaders afterward.
 
----
-
-### December
-- **First Week**:
-  - **Finance Committee**:
-    - Finalize the budget draft for board approval.
-
+## August
 - **Second Tuesday**:
-  - **Governing Board Meeting**:
-    - Finalize and approve the budget for the upcoming year.
-    - Finalize the agenda for the Annual Meeting.
+  - Quarterly (Q3) Financial Review.
+  - Invite Ministry Leaders to attend if they have items to discuss that may place their budgets outside their anticipated “Safe Budget” (attendance optional). Updates will be shared with all ministry leaders afterward.
 
-- **Last Week**:
-  - Distribute finalized Annual Meeting agenda and materials to the congregation.
+## September
+- **Last Sunday of September**:
+  - Nominating Committee meets to review the nomination process, open positions, and requirements.
+
+## October
+- **October 1**:
+  - Finance Committee requests budget input from Ministry Leaders.
+- **1st Sunday of October**:
+  - Nominating Committee prepares nomination table, nomination slips, and position descriptions.
+  - Pastor announces open nominations.
+- **2nd Sunday of October**:
+  - Pastor announces open nominations.
+- **3rd Sunday of October**:
+  - Pastor announces open nominations.
+- **Last (4th/5th) Sunday of October**:
+  - Nominating Committee collects all remaining nomination slips and prepares to review nominations.
+  - Pastor announces closed nominations.
+- **October 31**:
+  - Finance Committee collects final budget requests for the upcoming year from Ministry Leaders.
+
+## November
+- **November 1**:
+  - Finance Committee begins drafting the budget based on ministry requests and anticipated needs.
+- **Second Tuesday**:
+  - Quarterly (Q4) Financial Review.
+  - Invite Ministry Leaders to attend if they have items to discuss that may place their budgets outside their anticipated “Safe Budget” (attendance optional). Updates will be shared with all ministry leaders afterward.
+  - Finalize the date of the Annual Meeting.
+  - Determine required reports and reporting method.
+  - Governing Board Secretary requests ministry reports after the meeting concludes.
+- **November 30**:
+  - Finance Committee finishes drafting the budget based on ministry requests and anticipated needs.
+
+## December
+- **Second Tuesday**:
+  - Governing Board finalizes the budget for the upcoming year.
+  - Finalize the agenda for the Annual Meeting.
