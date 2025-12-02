@@ -15,27 +15,27 @@ Our church mission statement: Our mission is to know Jesus Christ, exalt Him as 
 Reference to [Section XX Article #]  - is a reference to sections of the 2023 Manual of The Christian and Missionary Alliance. These bylaws are not in conflict with the Constitution.
 
 ## Article 1 - Name [^1]
-This church shall bear the corporate name of the “RIVERWOOD COMMUNITY CHURCH OF THE CHRISTIAN AND MISSIONARY ALLIANCE”, doing business as “RIVERWOOD CHURCH” and “RIVERWOOD COMMUNITY CHURCH”. 
+- This church shall bear the corporate name of the “RIVERWOOD COMMUNITY CHURCH OF THE CHRISTIAN AND MISSIONARY ALLIANCE”, doing business as “RIVERWOOD CHURCH” and “RIVERWOOD COMMUNITY CHURCH”. 
 
 
 ## Article 2 - Relationship [^2]
-This church relates to and is subordinate to its parent religious organization, The Christian and Missionary Alliance, a Colorado nonprofit corporation. In consideration of the mutual benefits generated and derived from this relationship and understanding that The Christian and Missionary Alliance is relying hereon in agreeing to initiate or continue such relationship, this church agrees to be subject to and abide by the terms and conditions of Article XVI hereof relating to the reversion of property of accredited churches.
+- This church relates to and is subordinate to its parent religious organization, The Christian and Missionary Alliance, a Colorado nonprofit corporation. In consideration of the mutual benefits generated and derived from this relationship and understanding that The Christian and Missionary Alliance is relying hereon in agreeing to initiate or continue such relationship, this church agrees to be subject to and abide by the terms and conditions of Article XVI hereof relating to the reversion of property of accredited churches.
 
 ### Lay Delegate(s) to General Council.
-Pursuant to section A2 Amended and Restated Constitution and Bylaws of The Christian and Missionary Alliance, Article VI, Section 6.2, Paragraph 3, lay delegates to General Council shall be appointed annually by the governance authority. The delegate(s) shall be certified by the Lead Pastor and reported to the proper authority upon request.
+- Pursuant to section A2 Amended and Restated Constitution and Bylaws of The Christian and Missionary Alliance, Article VI, Section 6.2, Paragraph 3, lay delegates to General Council shall be appointed annually by the governance authority. The delegate(s) shall be certified by the Lead Pastor and reported to the proper authority upon request.
  
 ### Lay Delegate(s) to District Conference.
-Pursuant to section A4 Uniform Constitution for Districts of The Christian and Missionary Alliance, Article II, Section I, Paragraph A, Uniform Constitution for District of The Christian and Missionary Alliance, lay delegates to District Conference shall be appointed annually by the governance authority. The delegate(s) shall be certified by the Lead Pastor and reported to the proper authority upon request.
+- Pursuant to section A4 Uniform Constitution for Districts of The Christian and Missionary Alliance, Article II, Section I, Paragraph A, Uniform Constitution for District of The Christian and Missionary Alliance, lay delegates to District Conference shall be appointed annually by the governance authority. The delegate(s) shall be certified by the Lead Pastor and reported to the proper authority upon request.
 
 
 
 ## Article 3 - Membership [^3]
 
 ### Application for Membership
-All applicants desiring membership shall meet with the Elder Board or at least two representatives of such. Upon approval of the Elder Board, they shall be recommended for acceptance as members. Applicants shall be accepted into membership in a regular public service following their recommendation from the Elder Board.
+- All applicants desiring membership shall meet with the Elder Board or at least two representatives of such. Upon approval of the Elder Board, they shall be recommended for acceptance as members. Applicants shall be accepted into membership in a regular public service following their recommendation from the Elder Board.
 
 ### Transfer of Membership
-Upon written request from another Christian body/fellowship/church, an individual's membership at Riverwood Community Church may be transferred to the requesting church. No verbal requests will be accepted. Upon action by the Elder Board, suggestions or comments may be included in the transfer of membership to the receiving church (Ephesians 1:22-23; 2:21-22; 3:14-15; 4:4)
+- Upon written request from another Christian body/fellowship/church, an individual's membership at Riverwood Community Church may be transferred to the requesting church. No verbal requests will be accepted. Upon action by the Elder Board, suggestions or comments may be included in the transfer of membership to the receiving church (Ephesians 1:22-23; 2:21-22; 3:14-15; 4:4)
 
 ### Inactive Members
 - Members who do not attend services for any of the following reasons may be placed on the inactive list and shall be automatically reinstated upon their return:
@@ -176,7 +176,7 @@ Upon written request from another Christian body/fellowship/church, an individua
 
 
 ## Article 10 - Missions Mobilization [^10]
-A missions’ conference shall be held annually for the promotion and support of the worldwide work of The Christian and Missionary Alliance. 
+- A missions’ conference shall be held annually for the promotion and support of the worldwide work of The Christian and Missionary Alliance. 
 
 
 
@@ -188,7 +188,7 @@ A missions’ conference shall be held annually for the promotion and support of
 
 
 ## Article 12 - Elections [^12]
-The Nominating Committee shall present the first reading of this report to the congregation at least three weeks prior to the annual meeting. At least one name for each office to be filled will be presented. This will be presented in such a way so as to fully inform the entire congregation. After this, individual nominations from the congregation may be presented in writing to the Nomination Committee. The second reading of the Nomination Committee's report will then be presented at the Annual Meeting of the congregation. 
+- The Nominating Committee shall present the first reading of this report to the congregation at least three weeks prior to the annual meeting. At least one name for each office to be filled will be presented. This will be presented in such a way so as to fully inform the entire congregation. After this, individual nominations from the congregation may be presented in writing to the Nomination Committee. The second reading of the Nomination Committee's report will then be presented at the Annual Meeting of the congregation. 
 
 
 
