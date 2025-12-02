@@ -1,4 +1,4 @@
-# 2024 Bylaws 
+# 2024 Bylaws
 Riverwood Community Church of the Christian and Missionary Alliance
 
 _Revised and Adopted at the January 2024 Annual Meeting_
