@@ -1,7 +1,7 @@
-# 2024 Bylaws
+# 2026 Bylaws 
 Riverwood Community Church of the Christian and Missionary Alliance
 
-_Revised and Adopted at the January 2024 Annual Meeting_
+_Revised and Adopted at the January 2026 Annual Meeting_
 
 ## Preamble
 The New Testament teaches that the local church is the visible, organized expression of the body of Christ. It is therefore essentially a spiritual entity and best conceived of as a living, growing organism rather than as an expanding organization. Life is derived from the Head, Jesus Christ, on whom the church is absolutely dependent in order to be and to become all that God called it to be and has intended for it. 
@@ -86,7 +86,7 @@ Reference to [Section XX Article #]  - is a reference to sections of the 2023 Ma
 
 ## Article 6 - Governance Authority [^6]
 
-- The Governance Authority shall consist of all pastors on staff, licensed by The Great Lakes District of The Christian and Missionary Alliance, elders, Head Deacon, Head Trustee, Disciplemaking Ministries Director, Secretary and Treasurer. This Board shall consist of at least nine members. 
+- The Governance Authority shall consist of all pastors on staff, licensed by The Great Lakes District of The Christian and Missionary Alliance, elders, Head Deacon, Head Trustee, Outreach Coordinator, Secretary and Treasurer. This Board shall consist of at least nine members. 
 
 - A quorum shall be 50% of the members of the Governance Authority. 
 
@@ -98,9 +98,11 @@ Reference to [Section XX Article #]  - is a reference to sections of the 2023 Ma
 
 ## Article 7 - Officers [^7]
 
-- The following officers of the church will be elected at the Annual Meeting for a two-year term: Elders, Head Deacon, Head Deaconess, Treasurer, Assistant Treasurer, Head Trustee, Governing Board Secretary. The following officers of the church will be elected at the Annual Meeting for a one-year term:  Alliance Men Coordinator, Alliance Women Coordinator, and Missions Coordinator.
+- The following officers of the church will be elected at the Annual Meeting for a two-year term: Elders, Head Deacon, Treasurer, Assistant Treasurer, Head Trustee, Governing Board Secretary.
 
-- The following officers of the church will be appointed annually by the Lead Pastor and confirmed by the Elders and then the Governing Board: Disciplemaking Ministries Director, Worship Ministry Director, Children’s Ministry Director, Youth Ministry Director, and Small Group Director.
+- The following officers of the church will be elected at the Annual Meeting for a one-year term:  Alliance Men Coordinator, Alliance Women Coordinator, and Missions Coordinator.
+
+- The following officers of the church will be appointed annually by the Lead Pastor and confirmed by the Elders and then the Governing Board: Outreach Ministry Coordinator, Worship Ministry Coordinator, Children’s Ministry Coordinator, Youth Ministry Coordinator, Small Group Coordinator, and Food Pantry Coordinator.
 
 - A vacancy in any office elected by the membership at the annual meeting, however occurring, may be filled by appointment of the Governance Authority until the next Annual Meeting. Where there is a vacancy, the Governance Authority shall assume responsibility for those ministries and duties until such are elected or appointed. 
 
@@ -121,31 +123,58 @@ Reference to [Section XX Article #]  - is a reference to sections of the 2023 Ma
 ### Elders
 - A minimum of four Elders shall be elected. A minimum of two elected annually for a two-year term.
 
+  - An additional one for every twenty-five regular attenders above one-hundred shall be added to the number of Elder positions open for election.
+ 
+  - The number of regular attenders will be calculated using the average attendance for the three months prior to the nominating committee's first meeting.
+ 
 - Members may succeed themselves in office.
 
-- Elected Elders must have been actively engaged in a church ministry at Riverwood Community Church for at least one year with proven discipleship skills.  
+- Elected Elders must have been actively engaged in a church ministry at Riverwood Community Church for at least one year with proven discipleship skills.
+
+- The Elders will be responsible for spiritual oversight, doctrinal guidance, pastoral care, and assisting the Lead Pastor in shepherding the congregation according to Scripture.
 
 ### Deacons
 - The Head Deacon will be elected at the Annual Meeting for a two-year term. The Head Deacon will serve as chair of the deacons.
 
-- The Head Deacon shall create a Deacon Committee with a minimum of four deacons. The names of the deacons shall be presented to the Governing Board for confirmation. They shall serve under the direction of the Head Deacon.
+- The Head Deacon shall create a Deacon Team with a minimum of four deacons. The names of the deacons shall be presented to the Governing Board for confirmation. They shall serve under the direction of the Head Deacon.
 
-- The Deacons will handle the Benevolent Fund to respond to charitable needs as they arise. 
-
-### Deaconesses 
-- The Head Deaconess will be elected at the Annual Meeting for a two-year term. The Head Deaconess will serve as chair of the deaconesses.
-
-- The Head Deaconess shall create a Deaconess Committee with a minimum of four deaconesses. The names of the deaconesses shall be presented to the Governing Board for confirmation. They shall serve under the direction of the Head Deaconess. 
+- The Deacons will be responsible for practical acts of service within the church, including care needs, Benevolence Fund administration, and tasks that support the physical and logistical needs of the congregation.
 
 ### Trustees
 - The Head Trustee will be elected at the Annual Meeting for a two-year term. The Head Trustee will serve as chair of the trustees.
 
-- The Head Trustee shall create a Trustee Committee with a minimum of four trustees. The names of the trustees shall be presented to the Governing Board for confirmation. They shall serve under the direction of the Head Trustee. 
- 
+- The Head Trustee shall create a Trustee Team with a minimum of four trustees. The names of the trustees shall be presented to the Governing Board for confirmation. They shall serve under the direction of the Head Trustee.
+
+- The Trustees will be responsible for the maintenance, care, and stewardship of church property, facilities, equipment, and grounds, and for assisting with practical needs related to building operations.
+
+### Outreach Ministry
+- The Outreach Ministry Coordinator will be elected at the Annual Meeting for a two-year term. The Outreach Ministry Coordinator will serve as chair of the Outreach Team.
+
+- The Outreach Ministry Coordinator shall create an Outreach Team with a minimum of four members. The names of the members shall be presented to the Governing Board for confirmation. They shall serve under the direction of the Outreach Ministry Coordinator.
+
+- The Outreach Team will be responsible for planning, coordinating, and supporting outreach efforts, community engagement projects, evangelism initiatives, and service activities that help the church connect with and care for the community.
+
+### Food Pantry Ministry
+
+- The Food Pantry Coordinator will be appointed annually by the Lead Pastor and confirmed by the Elders and then the Governing Board. The Food Pantry Coordinator will serve as chair of the Food Pantry Team.
+
+- The Food Pantry Coordinator shall create a Food Pantry Team. They shall serve under the direction of the Food Pantry Coordinator.
+
+- The Food Pantry Team will be responsible for operating and supporting the church’s Food Pantry ministry. Their responsibilities may include receiving and organizing donations, preparing distributions, serving during pantry hours, maintaining records as required, and carrying out other tasks necessary to support the ministry as determined by the Food Pantry Coordinator.
+
 ### Disciplemaking Ministries
 - A major ministry of this church shall be making disciples of Jesus Christ. The disciplemaking process includes small groups, evangelism, building up believers, equipping workers, and multiplying leaders, among adults, youth, and children. The purpose of disciplemaking ministries is to bring people to a saving knowledge of Christ, teach biblical principles emphasizing missions and the centrality of Christ as Savior, Sanctifier, Healer, and Coming King, and equip people for evangelism and Christian service. 
 
-- The disciplemaking ministries of this Church, under the direction of the Disciplemaking Ministries Director, are led by a Children's Ministry Director, a Youth Ministry Director, and a Small Group Director, each of whom oversees the disciplemaking ministries in their respective areas. They coordinate with each other as needed or directed, and are accountable to the Lead Pastor. 
+- The disciplemaking ministries of this Church are led by a Children's Ministry Coordinator, a Youth Ministry Coordinator, and a Small Group Coordinator, each of whom oversees the disciplemaking ministries in their respective areas. They coordinate with each other as needed or directed, and are accountable to the Lead Pastor.
+
+- The Disciplemaking Ministries leadership will be responsible for coordinating and supporting disciplemaking efforts among adults, youth, and children, ensuring alignment, collaboration, and effective ministry across these areas.
+
+### Care Team
+- The Lead Pastor will appoint the Care Team annually and will serve as chair of the Care Team.
+
+- The Lead Pastor shall create a Care Team with a minimum of four members. The names of the members shall be presented to the Governing Board for confirmation. They shall serve under the direction of the Lead Pastor.
+
+- The Care Team will be responsible for ministries and tasks related to the care of the church body. These may include kitchen crew, meal trains, prayer chain, communion preparation, baby dedications, and other responsibilities as determined by the Lead Pastor.
 
 ### Finance Committee
 - The Finance Committee will consist of the Treasurer, Assistant Treasurer, Head Trustee and two others from the congregation.
@@ -154,24 +183,30 @@ Reference to [Section XX Article #]  - is a reference to sections of the 2023 Ma
   
 - The Finance Committee will obtain a review of the financial records of the church annually.
 
-### Missions Committee
-- The Missions Committee shall consist of the Senior Pastor, Missions Coordinator, Alliance Women Coordinator , Alliance Men Coordinator, and up to four members from the congregation. When filled, the Missions Candidate will also be on the committee.
+- The Finance Committee will be responsible for overseeing financial stewardship, reviewing financial practices, preparing for annual reviews, and helping ensure the church’s financial integrity.
 
-- The Missions Coordinator shall be the chair of this committee.
+### Missions Team
+- The Missions Team shall consist of the Senior Pastor, Missions Coordinator, Alliance Women Coordinator , Alliance Men Coordinator, and up to four members from the congregation. When filled, the Missions Candidate will also be on the team.
 
-- The Missions Coordinator shall be elected at the Annual Meeting for a two-year term. 
+- The Missions Coordinator shall be the chair of this team.
 
-### Salary Committee
-- The Salary Committee will consist of the Treasurer, the Vice Chair of the Governing Board, Head Deacon, and two others from the congregation.
+- The Missions Coordinator shall be elected at the Annual Meeting for a two-year term.
 
-- The Treasurer will serve as the chair of the Salary Committee.
+- The Missions Committee will be responsible for promoting the church’s missionary vision, supporting Alliance missions, coordinating missionary-related events, and encouraging congregational participation in global and local missions.
 
-- The purpose of the Salary Committee is to recommend fair, and reasonable salaries for all employees of the church. At a minimum, the Salary Committee must meet once a year to prepare the annual budget salary recommendations for the following year. The recommendations for the annual budget salaries of the following year are then submitted to the Finance Committee to review and approve.
+### Salary Sub-Committee
+- The Salary Sub-Committee will consist of the Treasurer, the Vice Chair of the Governing Board, Head Deacon, and two others from the congregation.
 
-- The Salary Committee may choose to meet additionally to discuss salary changes to the current budgeted year. Situations such as the following may warrant additional meetings when the number of employees changes within the church after the current budget has been set or in cases of unexpected significant economic changes within the local area. Any proposed changes to the salaries of the current budgeted year must be submitted to the Governing Authority for approval. 
+- The Treasurer will serve as the chair of the Salary Sub-Committee.
 
-### Other Committees
-- As may be desired, the Governance Authority may appoint committees for a one-year term. The Committees shall elect a chair from within their membership, and report quarterly to the governance authority on status and plans. 
+- The purpose of the Salary Sub-Committee is to recommend fair, and reasonable salaries for all employees of the church. At a minimum, the Salary Sub-Committee must meet once a year to prepare the annual budget salary recommendations for the following year. The recommendations for the annual budget salaries of the following year are then submitted to the Finance Committee to review and approve.
+
+- The Salary Sub-Committee may choose to meet additionally to discuss salary changes to the current budgeted year. Situations such as the following may warrant additional meetings when the number of employees changes within the church after the current budget has been set or in cases of unexpected significant economic changes within the local area. Any proposed changes to the salaries of the current budgeted year must be submitted to the Governing Authority for approval.
+
+- The Salary Committee will be responsible for evaluating employee compensation, recommending fair and reasonable salaries, and reviewing changes as needed to support church operations and staff wellbeing.
+
+### Other Committees & Teams
+- As may be desired, the Governance Authority may appoint committees or teams for a one-year term. The committees and/or teams shall elect a chair from within their membership, and report quarterly to the governance authority on status and plans. 
 
 
 
