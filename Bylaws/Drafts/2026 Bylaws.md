@@ -1,7 +1,7 @@
-# 2024 Bylaws
+# 2026 Bylaws [DRAFT]
 Riverwood Community Church of the Christian and Missionary Alliance
 
-_Revised and Adopted at the January 2024 Annual Meeting_
+_Revised and Adopted at the January 202x Annual Meeting_
 
 ## Preamble
 The New Testament teaches that the local church is the visible, organized expression of the body of Christ. It is therefore essentially a spiritual entity and best conceived of as a living, growing organism rather than as an expanding organization. Life is derived from the Head, Jesus Christ, on whom the church is absolutely dependent in order to be and to become all that God called it to be and has intended for it. 
