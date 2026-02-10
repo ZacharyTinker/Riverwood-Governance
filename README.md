@@ -6,7 +6,6 @@ Welcome to the **Riverwood Church Governance Repository**, the official archive 
 - **Official Bylaws**: The core governing document defining the structure and rules of Riverwood Church.
 - **Policies**: Guidelines and procedures that support the church's operations and ministries.
 - **Role Descriptions**: Comprehensive descriptions of roles within church leadership, committees, and ministries.
-- **Voted Motions**: A historical record of motions passed by the Governing Board, including their dates and outcomes.
 - **Other Historical Documents**: Additional records deemed necessary for governance and reference.
 
 ## Purpose
