@@ -1,5 +1,6 @@
 # 2024 Bylaws 
 Riverwood Community Church of the Christian and Missionary Alliance
+12000 Clinton River Road, Sterling Heights, Michigan, 48313-3213
 
 _Revised and Adopted at the January 2024 Annual Meeting_
 
