@@ -134,21 +134,52 @@ The Chair or Vice-Chair may announce the result only after the Governing Board S
 
 ---
 
-## Section 8 - Quorum and Approval Requirement
+## Section 8 - Quorum, Approval, and Vote Outcome Requirements
 
-A quorum for an electronic vote shall require responses from a majority of the current members of the Governing Board.
+For purposes of this policy, “current voting members of the Governing Board” means those individuals officially serving as members of the Governance Authority under Article 6 of the bylaws at the time the electronic vote is initiated.
+
+Vacant positions and non-voting participants shall not count toward quorum or voting thresholds.
+
+Quorum for electronic voting shall be calculated according to Article 6 of the bylaws. When the calculation results in a fraction, the required number shall be rounded up to the next whole number.
 
 Responses of Yes, No, or Abstain count toward quorum.
 
 Non-responses do not count toward quorum and shall not be counted as Yes, No, or Abstain.
 
-Because electronic voting occurs outside of a regular meeting, a motion shall pass only if it receives Yes votes from a majority of the full current membership of the Governing Board, unless the bylaws, this policy, or Robert’s Rules of Order require a higher threshold.
+Silence shall not be interpreted as consent, opposition, or abstention. A board member who does not respond by the stated deadline shall be recorded as not responding and shall not count toward quorum or toward the vote result.
+
+Because electronic voting occurs outside of a regular meeting, a motion shall pass only if it receives Yes votes from a majority of the full current voting membership of the Governing Board, unless the bylaws, this policy, or Robert’s Rules of Order require a higher threshold.
 
 Even if quorum is achieved, the motion fails unless the required number of Yes votes is received by the stated deadline.
 
-Silence shall not be interpreted as consent, opposition, or abstention. A board member who does not respond by the stated deadline shall be recorded as not responding and shall not count toward quorum or toward the vote result.
+For purposes of this policy, a motion **passes** when the electronic vote was properly conducted, quorum was achieved, and the required number of Yes votes was received by the stated deadline.
 
-For example, if the Governing Board has 9 current members, at least 5 members must respond Yes, No, or Abstain for quorum to be achieved. However, the motion passes only if at least 5 members vote Yes. A vote of 4 Yes, 1 No, and 4 Non-Response achieves quorum but fails because it does not receive Yes votes from a majority of the full Governing Board.
+For purposes of this policy, a motion **fails** when the electronic vote was properly conducted but the required number of Yes votes was not received by the stated deadline.
+
+A vote is **void** when the electronic voting process did not meet the requirements of this policy. A void electronic vote shall be treated as though no official vote occurred.
+
+An electronic vote may be void for reasons including, but not limited to:
+
+- The vote was not initiated by the Chair or Vice-Chair as required by this policy
+- The original vote notice was not sent to every current voting member of the Governing Board
+- The Governing Board Secretary was not included in the original vote notice or did not have access to the full electronic vote record
+- An unapproved electronic voting method was used
+- The motion being voted on was not clearly stated
+- The voting deadline was not clearly stated
+- The Governing Board Secretary could not verify the recipient list, participant list, vote responses, voting threshold, or official vote record
+- The matter being voted on was not eligible for electronic voting under this policy
+
+A vote is **suspended** when a current voting member of the Governing Board objects to electronic consideration before the voting deadline, as provided in this policy. A suspended electronic vote shall not be counted as passed, failed, or void. The matter shall instead be moved to a regular or properly called meeting of the Governing Board.
+
+Failure of a motion by electronic vote does not prevent the same motion, or a substantially similar motion, from being brought before the Governing Board at a regular or properly called meeting.
+
+Because electronic voting occurs outside of a meeting and does not provide the same opportunity for discussion and deliberation, a failed electronic vote shall not prohibit further consideration of the matter at a regular or properly called meeting.
+
+A motion that fails electronically may be reconsidered, revised, or brought again at a regular or properly called meeting, including with the same wording, unless prohibited by the bylaws, Robert’s Rules of Order, or a prior action of the Governing Board.
+
+For example, if the Governing Board has 10 current voting members, 5 responses are required for quorum under the bylaws. However, the motion passes only if at least 6 members vote Yes, because 6 is a majority of the full current voting membership.
+
+For example, if the Governing Board has 9 current voting members, 5 responses are required for quorum because 50% results in a fraction and is rounded up. The motion also requires at least 5 Yes votes to pass.
 
 ---
 
@@ -365,3 +396,13 @@ This policy is intended to operate in consistency with Robert’s Rules of Order
 In any matter not addressed by this policy, the applicable provisions of Robert’s Rules of Order and the bylaws of Riverwood Community Church shall govern.
 
 ---
+
+## Bylaw Alignment
+
+For purposes of this policy, “Governing Board” means the Governance Authority described in Article 6 of the bylaws.
+
+For purposes of this policy, “current voting members of the Governing Board” means those individuals officially serving as members of the Governance Authority at the time the electronic vote is initiated. Vacant positions and non-voting participants shall not count toward quorum or voting thresholds.
+
+Quorum for electronic voting shall be calculated according to Article 6 of the bylaws. When the calculation results in a fraction, the required number shall be rounded up to the next whole number.
+
+If any provision of this policy conflicts with the bylaws, the bylaws shall control.
