@@ -144,7 +144,11 @@ Non-responses do not count toward quorum and shall not be counted as Yes, No, or
 
 Because electronic voting occurs outside of a regular meeting, a motion shall pass only if it receives Yes votes from a majority of the full current membership of the Governing Board, unless the bylaws, this policy, or Robert’s Rules of Order require a higher threshold.
 
+Even if quorum is achieved, the motion fails unless the required number of Yes votes is received by the stated deadline.
+
 Silence shall not be interpreted as consent, opposition, or abstention. A board member who does not respond by the stated deadline shall be recorded as not responding and shall not count toward quorum or toward the vote result.
+
+For example, if the Governing Board has 9 current members, at least 5 members must respond Yes, No, or Abstain for quorum to be achieved. However, the motion passes only if at least 5 members vote Yes. A vote of 4 Yes, 1 No, and 4 Non-Response achieves quorum but fails because it does not receive Yes votes from a majority of the full Governing Board.
 
 ---
 
