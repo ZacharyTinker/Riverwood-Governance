@@ -70,7 +70,7 @@ This policy applies exclusively to members of the Governing Board as defined in 
 
 It does not apply to congregational votes, annual meetings, membership votes, or any vote requiring congregational participation.
 
-No committee, ministry team, Board of Elders, informal group, or subgroup of Governing Board members may conduct an electronic vote on behalf of the Governing Board unless the vote is initiated under this policy and sent to all current members of the Governing Board.
+No committee, ministry team, informal group, or subgroup of Governing Board members may conduct an electronic vote on behalf of the Governing Board unless the vote is initiated under this policy and sent to all current members of the Governing Board.
 
 A quorum is established by participation in a properly initiated vote of the full Governing Board, not by a separate message thread, subgroup discussion, committee discussion, elder-board discussion, or informal agreement among a portion of the Governing Board.
 
@@ -93,8 +93,6 @@ If the matter has not previously been discussed by the Governing Board, the init
 For the purposes of this policy, the **Chair** shall be the Lead Pastor.
 
 The **Vice-Chair** shall be an elder chosen by the Governing Board at the first Governing Board meeting following the elections at the Annual Meeting.
-
-The Vice-Chair shall serve in this role until the next Vice-Chair is chosen by the Governing Board, unless the Governing Board determines otherwise.
 
 The **Governing Board Secretary** shall serve as the official process verifier and records keeper for electronic votes conducted under this policy.
 
@@ -174,8 +172,6 @@ The electronic vote must include the exact motion being voted on. The motion sha
 The standard voting period for an electronic vote shall be 48 hours from the time the motion is distributed.
 
 When the matter is not urgent, when significant details are being finalized, or when the Chair or Vice-Chair determines that additional time would be helpful, a 72-hour voting period should be used.
-
-A 24-hour voting period may be used only when a decision is time-sensitive and cannot reasonably wait. The initiating message must state the reason for the shortened voting period.
 
 No electronic vote may close early unless all current Governing Board members have responded.
 
