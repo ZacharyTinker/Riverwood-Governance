@@ -149,7 +149,6 @@ Reference to [Section XX Article #]  - is a reference to sections of the 2023 Ma
 - A major ministry of this church shall be making disciples of Jesus Christ. The disciplemaking process includes small groups, evangelism, building up believers, equipping workers, and multiplying leaders, among adults, youth, and children. The purpose of disciplemaking ministries is to bring people to a saving knowledge of Christ, teach biblical principles emphasizing missions and the centrality of Christ as Savior, Sanctifier, Healer, and Coming King, and equip people for evangelism and Christian service. 
 
 - The disciplemaking ministries of this Church, under the direction of the Disciplemaking Ministries Director, are led by a Children's Ministry Director, a Youth Ministry Director, and a Small Groups & Adult Ministries Director, each of whom oversees the disciplemaking ministries in their respective areas. They coordinate with each other as needed or directed, and are accountable to the Lead Pastor. 
-- The Small Groups & Adult Ministries Director shall oversee small groups (Connect Groups) and other adult ministries. Supporting coordinators and team leads may be established as ministry needs require, without creating additional elected church officer positions.
 
 ### Finance Committee
 - The Finance Committee will consist of the Treasurer, Assistant Treasurer, Head Trustee and two others from the congregation.
