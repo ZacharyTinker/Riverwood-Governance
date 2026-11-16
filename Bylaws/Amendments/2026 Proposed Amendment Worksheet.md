@@ -22,7 +22,7 @@ This worksheet documents the specific proposed amendments to the adopted January
 
 ### Amendment 1: Small Groups and Adult Ministries
 
-**Proposal:** Rename and expand the existing appointed Small Group Director to **Small Groups & Adult Ministries Director** under the existing annual appointment and confirmation process. Remove Alliance Men Coordinator and Alliance Women Coordinator from elected church offices. The new director will personally fill the formerly allocated Missions Committee representation; no substitute representative is authorized for this seat. Supporting coordinators may be designated as ministry needs require without becoming elected church officers.
+**Proposal:** Rename and expand the existing appointed Small Group Director to **Small Groups & Adult Ministries Director** under the existing annual appointment and confirmation process. Remove Alliance Men Coordinator and Alliance Women Coordinator from elected church offices. The new director will personally fill the formerly allocated Missions Committee representation; no substitute representative is authorized for this seat.
 
 **Affected provisions:** Article 7 (elected and appointed officers); Article 9 (Disciplemaking Ministries and Missions Committee).
 
@@ -134,7 +134,6 @@ The proposed text below is **consolidated** and assumes Amendments 1–3 all pas
 **Proposed:**
 
 > - The disciplemaking ministries of this Church, under the direction of the Disciplemaking Ministries Director, are led by a Children's Ministry Director, a Youth Ministry Director, and a Small Groups & Adult Ministries Director, each of whom oversees the disciplemaking ministries in their respective areas. They coordinate with each other as needed or directed, and are accountable to the Lead Pastor. 
-> - The Small Groups & Adult Ministries Director shall oversee small groups (Connect Groups) and other adult ministries. Supporting coordinators and team leads may be established as ministry needs require, without creating additional elected church officer positions.
 
 ---
 
