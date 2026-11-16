@@ -138,9 +138,6 @@ Reference to [Section XX Article #]  - is a reference to sections of the 2023 Ma
 ### Deacons, Deaconesses, and Care Team
 - One Head Deacon or Head Deaconess shall be elected at the Annual Meeting for a two-year term. This single office may be filled by an eligible man or woman, serving under the title Head Deacon or Head Deaconess, respectively. The elected officer shall lead and oversee the Care Team.
 - The Care Team shall oversee ministries of practical service, congregational care, hospitality, and benevolence, including the Food Pantry, Ushers and Security, Welcome Team, and other care-related ministries as established by the Governance Authority.
-- The Food Pantry shall be coordinated by its designated Food Pantry Coordinator(s) and volunteers. Ushers and Security shall be coordinated by a Security Coordinator and associated team leads and volunteers. The Care Team may include additional coordinators, team leads, and volunteers as ministry needs require. These positions are not separate elected church offices.
-- Coordinators shall ensure that volunteer scheduling and ministry coverage are arranged for their assigned areas, either directly or in coordination with a volunteer coordinator, church office administrator, or designated team lead, as detailed in the Church Policy Manual.
-- Security-related policy and procedure proposals may be presented to the Governance Authority by the Security Coordinator or by the Head Deacon or Head Deaconess. Such policies and procedures shall require adoption by the Governance Authority.
 - The Head Deacon or Head Deaconess shall administer the Benevolent Fund in accordance with the Church Policy Manual and policies adopted by the Governance Authority.
 
 ### Trustees
