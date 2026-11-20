@@ -20,6 +20,7 @@ The **Sunday Service Coordinator** coordinates the overall service experience, i
 - Worship Ministry Director → Lead Pastor; coordinates Sunday execution with the Sunday Service Coordinator.
 - Welcome Team Lead → Sunday Service Coordinator.
 - Ushers → Care Team/Head Deacon for current ministry oversight; coordinate Sunday operations with Sunday Service Coordinator. Their future placement may change with the Safety Team.
+- Sunday School Coffee Volunteer and Donut Volunteer → Kitchen Team Lead, under Care Team / Head Deacon or Head Deaconess oversight. Their role descriptions remain in Sunday Hospitality; they do **not** report to the Sunday Service Coordinator.
 
 **Governance note:** The proposed 2026 bylaws still place Welcome under the Care Team. The agreed *working* operating structure places Welcome wholly under Sunday Services; reconcile proposed bylaw text before adoption. These descriptions do not modify adopted bylaws.
 
@@ -261,17 +262,37 @@ The intended structure has one overall Tech Team Lead and three specialty leads.
 
 **Commitment:** Assigned services, including pre-service coverage.
 
-## 17. Sunday School Hospitality Volunteer
+## Sunday School Hospitality
 
-**Type:** Informal volunteer signup | **Classification:** General volunteer | **Accountable to:** Sunday Service Coordinator for Sunday hospitality coordination
+Coffee and donuts are part of the Sunday morning experience and are documented here under Sunday Services. **Their supervisory reporting line is through the Kitchen Team Lead**, under Care Team / Head Deacon or Head Deaconess oversight—not through the Sunday Service Coordinator. This is a clear distinction between where the assignments are documented and who supervises them.
 
-**Purpose:** Provide simple refreshments for Sunday School fellowship.
+## 17. Sunday School Coffee Volunteer
 
-**Assignments (volunteers may do one or both):**
-- **Donuts:** Sign up, bring donuts and have them available **before 9:30 a.m. Sunday School**.
-- **Coffee:** Prepare and brew coffee, have it ready **before 9:30 a.m.**, and keep the serving area tidy.
+**Type:** Volunteer | **Classification:** General volunteer | **Accountable to:** Kitchen Team Lead
 
-Communicate if unable to fulfill a signup. Anyone willing to help may participate; no formal ministry appointment is needed.
+**Purpose:** Prepare coffee for Sunday School fellowship.
+
+**Responsibilities**
+- Arrive early enough to prepare and brew coffee **before the 9:30 a.m. Sunday School start**.
+- Set up the coffee area and ensure it is ready for attendees.
+- Keep the serving area orderly and help clean up the equipment and work area afterward.
+- Communicate supply needs or an inability to fulfill an assigned Sunday to the Kitchen Team Lead.
+
+**Commitment:** Scheduled Sunday School mornings; early arrival before 9:30 a.m.
+
+## 18. Sunday School Donut Volunteer
+
+**Type:** Volunteer | **Classification:** General volunteer | **Accountable to:** Kitchen Team Lead
+
+**Purpose:** Provide donuts for Sunday School fellowship.
+
+**Responsibilities**
+- Sign up for an available Sunday and bring donuts.
+- Arrive early enough to have the donuts ready **before the 9:30 a.m. Sunday School start**.
+- Set out the donuts for attendees and communicate if unable to fulfill an assignment.
+- Coordinate practical needs with the Kitchen Team Lead.
+
+**Commitment:** Scheduled Sunday School mornings; arrival before 9:30 a.m.
 
 ## Shared expectations and status
 
