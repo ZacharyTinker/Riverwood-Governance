@@ -39,6 +39,7 @@ This page is the proposed table of contents for Riverwood's Church Policy Manual
 - [Congregational Care & Deacons — Draft](../Roles/Drafts/Congregational%20Care%20and%20Deacons.md) — practical care, Deacon/Deaconess and care assignments
 - [Trustees, Facilities & Property — Draft](../Roles/Drafts/Trustees%2C%20Facilities%20and%20Property.md) — Head Trustee, Trustee Committee, volunteer facilities responsibilities; paid Custodian employment description kept separate
 - [Security & Safety — Draft](../Roles/Drafts/Security%20and%20Safety.md) — Security Director / Coordinator, team volunteers and phased transition from Usher coverage
+- [Kitchen & Hospitality — Draft](../Roles/Drafts/Kitchen%20and%20Hospitality.md) — kitchen team leadership, crew, meals, events and food service; Sunday School coffee and donuts remain under Sunday Services while reporting to Kitchen Team Lead
 
 Role descriptions will use plain, easy-to-read language. The directory is a planning tool; being listed there does **not** create an office, establish a reporting line, or grant authority.
 
