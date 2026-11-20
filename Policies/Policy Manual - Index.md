@@ -35,6 +35,8 @@ This page is the proposed table of contents for Riverwood's Church Policy Manual
 - [Master Role Directory](../Roles/Role%20Directory.md) — grouped list and status of roles
 - [Role Description Template](../Roles/Role%20Description%20Template.md) — standard format for each role
 - [Governing Board Secretary — Draft](../Roles/Drafts/Governing%20Board%20Secretary.md) — first detailed role draft
+- [Sunday Services — Draft](../Roles/Drafts/Sunday%20Services.md) — Sunday coordination, worship, tech, welcome, ushering and hospitality roles
+- [Congregational Care & Deacons — Draft](../Roles/Drafts/Congregational%20Care%20and%20Deacons.md) — practical care, Deacon/Deaconess and care assignments
 
 Role descriptions will use plain, easy-to-read language. The directory is a planning tool; being listed there does **not** create an office, establish a reporting line, or grant authority.
 
