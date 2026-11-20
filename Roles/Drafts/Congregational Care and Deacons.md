@@ -111,7 +111,7 @@ These responsibilities may be assigned to Deacons, Deaconesses, Care Team member
 
 **Responsibilities:** Check supplies and inventory; arrange routine replenishment through approved channels; flag damaged or missing equipment; coordinate needs with the Kitchen Crew.
 
-**Boundary:** Does not replace the Kitchen Crew Team Lead's event food-service leadership.
+**Boundary:** Does not replace the Kitchen Team Lead's responsibility for kitchen volunteers, event food service or supervision of Sunday School Coffee and Donut Volunteers.
 
 **Commitment:** Periodic checks and as-needed support.
 
@@ -170,6 +170,12 @@ The proposed structure describes Care Team oversight, with operational work led 
 ### Welcome Team
 
 The **Welcome Team is part of Sunday Services** and reports to the Sunday Service Coordinator through its Welcome Team Lead. It is not assigned to Care Team oversight in this working roles system.
+
+### Kitchen Team and Sunday School Hospitality
+
+Under the agreed working structure, the **Kitchen Team Lead reports to the Head Deacon or Head Deaconess** and coordinates kitchen volunteers and food-service support. Sunday School **Coffee Volunteers and Donut Volunteers report to the Kitchen Team Lead**, even though their assignments are documented in the Sunday Services / Sunday Hospitality category. These volunteers do **not** report to the Sunday Service Coordinator. The Kitchen Supplies & Inventory Coordinator continues to coordinate supply needs with the Kitchen Team Lead.
+
+This reporting structure does not transfer the Welcome Team or Sunday service coordination to Congregational Care.
 
 ### Prayer Chain
 
